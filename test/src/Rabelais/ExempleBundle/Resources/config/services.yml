@@ -1,0 +1,7 @@
+parameters:
+#    rabelais_exemple.example.class: Rabelais\ExempleBundle\Example
+
+services:
+#    rabelais_exemple.example:
+#        class: %rabelais_exemple.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

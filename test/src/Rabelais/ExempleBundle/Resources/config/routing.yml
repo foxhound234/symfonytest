@@ -1,0 +1,11 @@
+rabelais_exemple_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: RabelaisExempleBundle:Default:index }
+
+rabelais_exemple_formulaire:
+
+    pattern:  /saisir/
+
+    defaults: { _controller: RabelaisExempleBundle:Default:contact }
+
+ 
